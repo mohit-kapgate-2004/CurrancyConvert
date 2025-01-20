@@ -1,2 +1,2 @@
-# CurrancyConvert
+# ReaderConnnect
 Frontend_project
